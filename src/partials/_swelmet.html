@@ -1,0 +1,16 @@
+<h3>Swelmet tracker</h3>
+    <p class="chatter">
+      Which players are leading in the swelmet count?
+    </p>
+
+
+<table>
+  <% json.MarinersTracker_swelmet.sort((a, b) => b.times_received - a.times_received).forEach(function(s) { %>
+      <tr class="player">
+       <td class="name"><%= s.name %></td>
+       <td><% for (var i=0; i < s.times_received; i++) { %>
+        <img class="swelmet-image" src="./assets/swelmet.png">
+       <% } %></td>
+      </tr>
+  <% }) %>
+</table>

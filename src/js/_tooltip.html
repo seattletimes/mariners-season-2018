@@ -1,0 +1,22 @@
+<h3>Game <%= data.game %></h3>
+<div class="row">
+  <div class="cell">
+    <h4>2017 season:</h4>
+    <% var twentySeventeen = data.selected[2017]; var remaining = [2016, 2001, 1995, 1978]; %>
+    <b><%= twentySeventeen.date %></b> <%= twentySeventeen.opponent %><br>
+    Final score: <b><%= twentySeventeen.won %>, <%= twentySeventeen.score %></b><br>
+    Record: <b><%= twentySeventeen.wins %>-<%= twentySeventeen.losses %></b><br>
+    Projected record: <b><%= data.projected %>-<%= 162 - data.projected %><br>
+    <% if (twentySeventeen.link) { %>
+    <a href="<%= twentySeventeen.link %>" target="_blank">Read game story &raquo;</a>
+    <% } %>
+  </div>
+  <div class="cell">
+    <h4>Other seasons:</h4>
+    <ul>
+      <% remaining.forEach(function(year) { var g = data.selected[year]; %>
+      <li> <%= year %>: <b><%= g.wins %>-<%= g.losses %></b>
+      <% }); %>
+    </ul>
+  </div>
+</div>

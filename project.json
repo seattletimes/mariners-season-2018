@@ -1,0 +1,21 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "glacial-nail"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2018/sports/mariners-wins-tracker"
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "",
+  "slug": "",
+  "tags": [],
+  "image": "assets/social.jpg",
+  "sheets": ["1NwwYJWTLvETniuqbq0zMbQywdFYtRBR156iRL0mU_bk"],
+  "production": true,
+  "embedded": true
+}
