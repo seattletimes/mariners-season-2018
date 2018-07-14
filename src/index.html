@@ -1,7 +1,7 @@
 <%
-var seasonData = { 1978: null, 1995: null, 2001: null, 2016: null, 2017: null };
+var seasonData = { 1978: null, 1995: null, 2001: null, 2017: null, 2018: null };
 for (var key in seasonData) {
-  var data = json["MarinersTracker_" + key];
+  var data = json["MarinersTracker2018_" + key];
   seasonData[key] = data;
   var wins = 0;
   var losses = 0;
@@ -17,7 +17,7 @@ for (var key in seasonData) {
     if (item.notes) item.notes = item.notes.trim();
   }
 }
-seasonData[2017] = seasonData[2017].filter(function(g) { return g.won });
+seasonData[2018] = seasonData[2018].filter(function(g) { return g.won });
 %><!doctype html>
 <html>
   <head>
@@ -32,9 +32,6 @@ seasonData[2017] = seasonData[2017].filter(function(g) { return g.won });
     <responsive-child>
       <main class="interactive">
         <h2>Mariners wins tracker</h2>
-        <p class="chatter">
-          Hey, the Mariners will win again.
-        </p>
         <div class="tooltip empty">Touch or hover on the graph to see per-game information</div>
         <div class="canvas-container">
           <img src="./assets/marinerslogo.jpg" class="logo">
@@ -42,15 +39,8 @@ seasonData[2017] = seasonData[2017].filter(function(g) { return g.won });
         </div>
         <ul class="key"></ul>
 
-        <div class="swelmet">
-          <%= t.include("partials/_swelmet.html") %>
-        </div>
-
         <div class="credit">
-          Vanessa Martinez, Thomas Wilburn, Sean Quinton / The Seattle Times
-        </div>
-        <div class="date">
-          Last updated: <%= require("moment")().format("MMM DD, YYYY [at] hh:mma") %>
+          Sean Quinton, Evan Webeck and Thomas Wilburn / The Seattle Times
         </div>
       </main>
     </responsive-child>
