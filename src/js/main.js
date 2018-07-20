@@ -130,6 +130,18 @@ var render = function() {
   context.stroke();
 };
 
+var setTooltipContent = function(game) {
+  var html = "";
+  var selected = {};
+  years.forEach(function(y) {
+    var season = data[y];
+    var g = season[game] || season[season.length - 1];
+    selected[y] = g;
+  });
+  tooltip.innerHTML = tooltipTemplate({ game: game + 1, selected, notes: yearNotes, projected })
+  tooltip.classList.remove("empty");
+}
+
 var highlight = function(e) {
   render();
   var bounds = canvas.getBoundingClientRect();
@@ -146,20 +158,13 @@ var highlight = function(e) {
   context.moveTo(projectedX, padding);
   context.lineTo(projectedX, canvas.height - padding);
   context.stroke();
-  var html = "";
-  var selected = {};
-  years.forEach(function(y) {
-    var season = data[y];
-    var g = season[game] || season[season.length - 1];
-    selected[y] = g;
-  });
-  tooltip.innerHTML = tooltipTemplate({ game: game + 1, selected, notes: yearNotes, projected })
-  tooltip.classList.remove("empty");
+  setTooltipContent(game);
   tooltip.style.left = (x > canvas.width / 2 ? x - tooltip.offsetWidth : x) + "px";
   tooltip.style.top = y + 10 + "px";
 };
 
 render();
+setTooltipContent(data[2018].length - 1)
 
 canvas.addEventListener("mousemove", highlight, 50);
 canvas.addEventListener("touchmove", highlight);
