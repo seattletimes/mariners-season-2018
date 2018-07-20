@@ -764,13 +764,18 @@
   },
   {
     " game": 96,
+    "won": "L",
     "date": "7/14/2018",
-    "opponent": "at Rockies"
+    "opponent": "at Rockies",
+    "score": "4-3",
+    "link": "https://www.seattletimes.com/sports/mariners/rockies-walk-off-completes-sweep-and-sends-mariners-reeling-into-the-all-star-break/"
   },
   {
     " game": 97,
+    "won": "L",
     "date": "7/15/2018",
-    "opponent": "at Rockies"
+    "opponent": "at Rockies",
+    "score": "4-1"
   },
   {
     " game": 98,
