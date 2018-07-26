@@ -780,28 +780,43 @@
   },
   {
     " game": 98,
+    "won": "W",
     "date": "7/20/2018",
-    "opponent": "vs White Sox"
+    "opponent": "vs White Sox",
+    "score": "3-1",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-get-back-on-the-winning-track-after-all-star-break/"
   },
   {
     " game": 99,
+    "won": "L",
     "date": "7/21/2018",
-    "opponent": "vs White Sox"
+    "opponent": "vs White Sox",
+    "score": "5-0",
+    "link": "https://www.seattletimes.com/sports/mariners/felix-hernandez-has-it-and-then-doesnt-as-white-sox-blank-mariners-5-0/"
   },
   {
     " game": 100,
+    "won": "W",
     "date": "7/22/2018",
-    "opponent": "vs White Sox"
+    "opponent": "vs White Sox",
+    "score": "8-2",
+    "link": "https://www.seattletimes.com/sports/mariners/marco-gonzales-is-strong-ryon-healy-is-even-stronger-in-mariners-series-win-over-white-sox/"
   },
   {
     " game": 101,
+    "won": "L",
     "date": "7/24/2018",
-    "opponent": "vs Giants"
+    "opponent": "vs Giants",
+    "score": "4-3",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-luck-in-one-run-games-runs-out-against-the-giants-in-a-4-3-loss/"
   },
   {
     " game": 102,
+    "won": "W",
     "date": "7/25/2018",
-    "opponent": "vs Giants"
+    "opponent": "vs Giants",
+    "score": "3-2",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-get-hit-when-it-matters-split-series-with-san-francisco-giants/"
   },
   {
     " game": 103,
