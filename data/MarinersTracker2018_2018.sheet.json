@@ -828,8 +828,11 @@
   },
   {
     " game": 104,
+    "won": "L",
     "date": "7/28/2018",
-    "opponent": "at Angels"
+    "opponent": "at Angels",
+    "score": "11-5",
+    "link": "https://www.seattletimes.com/sports/mariners/what-to-do-about-felix-hernandez-after-the-angels-thrash-the-mariners-11-5/"
   },
   {
     " game": 105,
