@@ -836,18 +836,28 @@
   },
   {
     " game": 105,
+    "won": "W",
     "date": "7/29/2018",
-    "opponent": "at Angels"
+    "opponent": "at Angels",
+    "score": "8-5",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-take-out-all-their-frustrations-on-angels-to-avoid-sweep/"
   },
   {
     " game": 106,
+    "won": "W",
     "date": "7/30/2018",
-    "opponent": "vs Astros"
+    "opponent": "vs Astros",
+    "score": "2-0",
+    "notes": "Paxton returns from DL, shutout",
+    "link": "https://www.seattletimes.com/sports/mariners/james-paxton-back-to-his-dominant-form-leading-mariners-to-a-2-0-victory-over-the-astros/"
   },
   {
     " game": 107,
+    "won": "L",
     "date": "7/31/2018",
-    "opponent": "vs Astros"
+    "opponent": "vs Astros",
+    "score": "5-2",
+    "link": "https://www.seattletimes.com/sports/mariners/astros-break-out-of-offensive-funk-beat-mariners-5-2/"
   },
   {
     " game": 108,
