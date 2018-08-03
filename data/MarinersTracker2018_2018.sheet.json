@@ -861,13 +861,19 @@
   },
   {
     " game": 108,
+    "won": "L",
     "date": "8/1/2018",
-    "opponent": "vs Astros"
+    "opponent": "vs Astros",
+    "score": "8-3",
+    "link": "https://www.seattletimes.com/sports/mariners/with-8-3-loss-to-astros-mariners-drop-into-wild-card-tie-with-as/"
   },
   {
     " game": 109,
+    "won": "L",
     "date": "8/2/2018",
-    "opponent": "vs Blue Jays"
+    "opponent": "vs Blue Jays",
+    "score": "7-3",
+    "link": "https://www.seattletimes.com/sports/mariners/in-pressure-start-felix-hernandez-pitches-ok-but-mariners-lose-third-straight/"
   },
   {
     " game": 110,
