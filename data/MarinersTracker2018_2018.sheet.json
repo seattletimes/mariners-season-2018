@@ -877,8 +877,11 @@
   },
   {
     " game": 110,
+    "won": "L",
     "date": "8/3/2018",
-    "opponent": "vs Blue Jays"
+    "opponent": "vs Blue Jays",
+    "score": "7-2",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-go-down-meekly-lose-their-fourth-straight-game/"
   },
   {
     " game": 111,
