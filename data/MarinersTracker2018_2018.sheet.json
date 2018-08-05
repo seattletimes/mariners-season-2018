@@ -885,8 +885,11 @@
   },
   {
     " game": 111,
+    "won": "L",
     "date": "8/4/2018",
-    "opponent": "vs Blue Jays"
+    "opponent": "vs Blue Jays",
+    "score": "5-1",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-offensive-woes-continue-as-torontos-marco-estrada-toys-with-no-hitter-in-blue-jays-5-1-victory/"
   },
   {
     " game": 112,
