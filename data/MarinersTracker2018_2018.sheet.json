@@ -849,7 +849,7 @@
     "date": "7/30/2018",
     "opponent": "vs Astros",
     "score": "2-0",
-    "notes": "Paxton returns from DL, shutout",
+    "notes": "Paxton returns from DL, throws seven shutout innings",
     "link": "https://www.seattletimes.com/sports/mariners/james-paxton-back-to-his-dominant-form-leading-mariners-to-a-2-0-victory-over-the-astros/"
   },
   {
@@ -894,8 +894,11 @@
   },
   {
     " game": 112,
+    "won": "W",
     "date": "8/5/2018",
-    "opponent": "vs Blue Jays"
+    "opponent": "vs Blue Jays",
+    "score": "6-3",
+    "link": "https://www.seattletimes.com/sports/mariners/nelson-cruz-kyle-seager-drive-in-all-the-runs-as-mariners-break-five-game-losing-streak/"
   },
   {
     " game": 113,
