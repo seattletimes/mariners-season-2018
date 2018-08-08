@@ -902,13 +902,19 @@
   },
   {
     " game": 113,
+    "won": "W",
     "date": "8/6/2018",
-    "opponent": "at Rangers"
+    "opponent": "at Rangers",
+    "score": "4-3",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-improve-to-9-1-in-extra-innings-beating-texas-4-3-on-a-ryon-healy-hit/"
   },
   {
     " game": 114,
+    "won": "L",
     "date": "8/7/2018",
-    "opponent": "at Rangers"
+    "opponent": "at Rangers",
+    "score": "11-4",
+    "link": "https://www.seattletimes.com/sports/mariners/felix-roughed-up-in-texas-heat-mariners-fall-11-4/"
   },
   {
     " game": 115,
