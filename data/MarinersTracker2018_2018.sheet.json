@@ -918,8 +918,10 @@
   },
   {
     " game": 115,
+    "won": "L",
     "date": "8/8/2018",
-    "opponent": "at Rangers"
+    "opponent": "at Rangers",
+    "score": "11-7"
   },
   {
     " game": 116,
