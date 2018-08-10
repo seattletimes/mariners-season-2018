@@ -921,12 +921,17 @@
     "won": "L",
     "date": "8/8/2018",
     "opponent": "at Rangers",
-    "score": "11-7"
+    "score": "11-7",
+    "link": "https://www.seattletimes.com/sports/mariners/whos-the-playoff-contender-last-place-rangers-look-just-as-much-the-part-in-taking-series-from-mariners/"
   },
   {
     " game": 116,
+    "won": "W",
     "date": "8/9/2018",
-    "opponent": "at Astros"
+    "opponent": "at Astros",
+    "score": "8-6",
+    "notes": "After the game, Scott Servais announces Felix Hernandez has lost his rotation spot and will move to the bullpen.",
+    "link": "https://www.seattletimes.com/sports/mariners/change-does-wonders-for-mariners-in-8-6-victory-at-houston/"
   },
   {
     " game": 117,
