@@ -935,8 +935,11 @@
   },
   {
     " game": 117,
+    "won": "W",
     "date": "8/10/2018",
-    "opponent": "at Astros"
+    "opponent": "at Astros",
+    "score": "5-2",
+    "link": "https://www.seattletimes.com/sports/mariners/nelson-cruz-delivers-clutch-two-run-double-as-mariners-scored-5-2-triumph-at-houston/"
   },
   {
     " game": 118,
