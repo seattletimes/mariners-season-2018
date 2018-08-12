@@ -943,8 +943,11 @@
   },
   {
     " game": 118,
+    "won": "W",
     "date": "8/11/2018",
-    "opponent": "at Astros"
+    "opponent": "at Astros",
+    "score": "3-2",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-get-the-best-of-another-astros-all-star-pitcher-winning-3-2-for-third-victory-in-a-row/"
   },
   {
     " game": 119,
