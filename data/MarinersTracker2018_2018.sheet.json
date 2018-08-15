@@ -951,18 +951,29 @@
   },
   {
     " game": 119,
+    "won": "W",
     "date": "8/12/2018",
-    "opponent": "at Astros"
+    "opponent": "at Astros",
+    "score": "4-3",
+    "notes": "10 innings, sweep of Houston",
+    "link": "https://www.seattletimes.com/sports/mariners/healy-ties-it-haniger-wins-it-diaz-shuts-it-down-as-mariners-complete-4-game-sweep-in-houston/"
   },
   {
     " game": 120,
+    "won": "L",
     "date": "8/13/2018",
-    "opponent": "at Athletics"
+    "opponent": "at Athletics",
+    "score": "7-6",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-rally-late-but-as-had-already-built-too-big-of-a-lead-to-win-7-6/"
   },
   {
     " game": 121,
+    "won": "L",
     "date": "8/14/2018",
-    "opponent": "at Athletics"
+    "opponent": "at Athletics",
+    "score": "3-2",
+    "notes": "Canó returns; Paxton hit with line drive",
+    "link": "https://www.seattletimes.com/sports/mariners/wild-card-chasing-mariners-lose-another-at-oakland-with-some-good-cano-returns-and-some-bad-paxton-injured/"
   },
   {
     " game": 122,
