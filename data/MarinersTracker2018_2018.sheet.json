@@ -991,28 +991,43 @@
   },
   {
     " game": 124,
+    "won": "W",
     "date": "8/18/2018",
-    "opponent": "vs Dodgers"
+    "opponent": "vs Dodgers",
+    "score": "5-4",
+    "link": "https://www.seattletimes.com/sports/mariners/after-edwin-diaz-blows-save-mariners-beat-dodgers-on-walk-off-balk/"
   },
   {
     " game": 125,
+    "won": "L",
     "date": "8/19/2018",
-    "opponent": "vs Dodgers"
+    "opponent": "vs Dodgers",
+    "score": "12-1",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-dont-give-themselves-much-of-a-chance-against-dodgers-clayton-kershaw/"
   },
   {
     " game": 126,
+    "won": "W",
     "date": "8/20/2018",
-    "opponent": "vs Astros"
+    "opponent": "vs Astros",
+    "score": "7-4",
+    "link": "https://www.seattletimes.com/sports/mariners/its-back-robinson-canos-power-on-display-with-a-three-run-homer-to-lift-mariners-past-astros-7-4/"
   },
   {
     " game": 127,
+    "won": "L",
     "date": "8/21/2018",
-    "opponent": "vs Astros"
+    "opponent": "vs Astros",
+    "score": "3-2",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-dont-have-enough-in-reserve-fall-short-against-houston/"
   },
   {
     " game": 128,
+    "won": "L",
     "date": "8/22/2018",
-    "opponent": "vs Astros"
+    "opponent": "vs Astros",
+    "score": "10-7",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-cant-come-back-from-9-1-deficit-in-loss-vs-astros/"
   },
   {
     " game": 129,
