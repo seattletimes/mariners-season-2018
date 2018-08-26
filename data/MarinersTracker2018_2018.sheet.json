@@ -1039,8 +1039,12 @@
   },
   {
     " game": 130,
+    "won": "W",
     "date": "8/25/2018",
-    "opponent": "at Diamondbacks"
+    "opponent": "at Diamondbacks",
+    "score": "4-3",
+    "notes": "Edwin Diaz gets his 50th save",
+    "link": "https://www.seattletimes.com/sports/mariners/edwin-diaz-earns-50th-save-in-mariners-stunning-comeback-victory-over-diamondbacks/"
   },
   {
     " game": 131,
