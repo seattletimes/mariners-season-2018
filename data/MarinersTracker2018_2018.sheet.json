@@ -1048,78 +1048,123 @@
   },
   {
     " game": 131,
+    "won": "L",
     "date": "8/26/2018",
-    "opponent": "at Diamondbacks"
+    "opponent": "at Diamondbacks",
+    "score": "5-2",
+    "link": "https://www.seattletimes.com/sports/mariners/diamondbacks-avoid-sweep-with-5-2-victory-over-mariners/"
   },
   {
     " game": 132,
+    "won": "L",
     "date": "8/28/2018",
-    "opponent": "at Padres"
+    "opponent": "at Padres",
+    "score": "2-1",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-get-nixed-in-frustrating-loss-to-san-diego/"
   },
   {
     " game": 133,
+    "won": "L",
     "date": "8/29/2018",
-    "opponent": "at Padres"
+    "opponent": "at Padres",
+    "score": "8-3",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-flop-in-san-diego-lose-second-game-to-padres-8-3/"
   },
   {
     " game": 134,
+    "won": "W",
     "date": "8/30/2018",
-    "opponent": "at Athletics"
+    "opponent": "at Athletics",
+    "score": "7-1",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-off-to-strong-start-in-key-series-in-oakland/"
   },
   {
     " game": 135,
+    "won": "L",
     "date": "8/31/2018",
-    "opponent": "at Athletics"
+    "opponent": "at Athletics",
+    "score": "7-5",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-rally-falls-short-in-loss-to-athletics/"
   },
   {
     " game": 136,
+    "won": "W",
     "date": "9/1/2018",
-    "opponent": "at Athletics"
+    "opponent": "at Athletics",
+    "score": "8-7",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-edge-athletics-8-7-go-for-series-win-on-sunday/"
   },
   {
     " game": 137,
+    "won": "L",
     "date": "9/2/2018",
-    "opponent": "at Athletics"
+    "opponent": "at Athletics",
+    "score": "8-2",
+    "link": "https://www.seattletimes.com/sports/mariners/felix-hernandez-falls-apart-and-the-mariners-miss-an-opportunity-in-oakland/"
   },
   {
     " game": 138,
+    "won": "W",
     "date": "9/3/2018",
-    "opponent": "vs Orioles"
+    "opponent": "vs Orioles",
+    "score": "2-1",
+    "link": "https://www.seattletimes.com/sports/mariners/unsung-erasmo-ramirez-and-cameron-maybin-get-job-done-for-mariners-in-2-1-victory/"
   },
   {
     " game": 139,
+    "won": "L",
     "date": "9/4/2018",
-    "opponent": "vs Orioles"
+    "opponent": "vs Orioles",
+    "score": "5-3",
+    "link": "https://www.seattletimes.com/sports/mariners/smallest-crowd-of-season-watches-as-mariners-lose-to-lowly-orioles-fail-to-gain-ground-in-wild-card-race/"
   },
   {
     " game": 140,
+    "won": "W",
     "date": "9/5/2018",
-    "opponent": "vs Orioles"
+    "opponent": "vs Orioles",
+    "score": "5-2",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-get-past-baltimore-but-stuck-in-neutral-in-race-for-second-wild-card/"
   },
   {
     " game": 141,
+    "won": "L",
     "date": "9/7/2018",
-    "opponent": "vs Yankees"
+    "opponent": "vs Yankees",
+    "score": "4-0",
+    "link": "https://www.seattletimes.com/sports/mariners/robinson-cano-just-as-his-mariners-teammates-baffled-again-in-defeat-this-time-4-0-to-yankees/"
   },
   {
     " game": 142,
+    "won": "L",
     "date": "9/8/2018",
-    "opponent": "vs Yankees"
+    "opponent": "vs Yankees",
+    "score": "4-2",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-latest-loss-to-yankees-makes-dim-playoff-hopes-even-dimmer/"
   },
   {
     " game": 143,
+    "won": "W",
     "date": "9/9/2018",
-    "opponent": "vs Yankees"
+    "opponent": "vs Yankees",
+    "score": "3-2",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-avoid-sweep-by-yankees-but-make-up-no-ground-in-wild-card-race/"
   },
   {
     " game": 144,
+    "won": "L",
     "date": "9/11/2018",
-    "opponent": "vs Padres"
+    "opponent": "vs Padres",
+    "score": "2-1",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-fall-to-padres-when-edwin-diaz-allows-ninth-inning-rbi-double/"
   },
   {
     " game": 145,
+    "won": "L",
     "date": "9/12/2018",
-    "opponent": "vs Padres"
+    "opponent": "vs Padres",
+    "score": "5-4",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-sink-even-lower-swept-by-san-diego/"
   },
   {
     " game": 146,
