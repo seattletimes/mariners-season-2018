@@ -1192,23 +1192,35 @@
   },
   {
     " game": 149,
+    "won": "L",
     "date": "9/16/2018",
-    "opponent": "at Angels"
+    "opponent": "at Angels",
+    "score": "4-3",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-cant-quite-complete-sweep-as-angels-salvage-finale-with-4-3-victory/"
   },
   {
     " game": 150,
+    "won": "W",
     "date": "9/17/2018",
-    "opponent": "at Astros"
+    "opponent": "at Astros",
+    "score": "4-1",
+    "link": "https://www.seattletimes.com/sports/mariners/daniel-vogelbachs-pinch-hit-grand-slam-gives-mariners-win-to-open-series-in-houston/"
   },
   {
     " game": 151,
+    "won": "L",
     "date": "9/18/2018",
-    "opponent": "at Astros"
+    "opponent": "at Astros",
+    "score": "7-0",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-officially-eliminate-themselves-from-al-west-title/"
   },
   {
     " game": 152,
+    "won": "W",
     "date": "9/19/2018",
-    "opponent": "at Astros"
+    "opponent": "at Astros",
+    "score": "9-0",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-prove-this-year-they-can-at-least-beat-the-astros-in-a-season-series/"
   },
   {
     " game": 153,
