@@ -1224,18 +1224,28 @@
   },
   {
     " game": 153,
+    "won": "L",
     "date": "9/21/2018",
-    "opponent": "at Rangers"
+    "opponent": "at Rangers",
+    "score": "8-3",
+    "link": "https://www.seattletimes.com/sports/mariners/texas-drubs-mariners-8-3-in-game-called-early-because-of-rain/"
   },
   {
     " game": 154,
+    "won": "W",
     "date": "9/22/2018",
-    "opponent": "at Rangers"
+    "opponent": "at Rangers",
+    "score": "13-0",
+    "notes": "Mariners officially eliminated from playoffs for 17th straight season",
+    "link": "https://www.seattletimes.com/sports/mariners/robinson-cano-breaks-out-bat-as-mariners-score-season-high-13-runs-to-bash-rangers/"
   },
   {
     " game": 155,
+    "won": "L",
     "date": "9/23/2018",
-    "opponent": "at Rangers"
+    "opponent": "at Rangers",
+    "score": "6-1",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-fall-to-rangers-in-final-road-game-of-season/"
   },
   {
     " game": 156,
