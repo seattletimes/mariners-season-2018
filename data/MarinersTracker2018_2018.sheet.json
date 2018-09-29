@@ -1249,28 +1249,43 @@
   },
   {
     " game": 156,
+    "won": "L",
     "date": "9/24/2018",
-    "opponent": "vs Athletics"
+    "opponent": "vs Athletics",
+    "score": "7-3",
+    "link": "https://www.seattletimes.com/sports/mariners/its-a-celebration-at-safeco-field-but-visiting-as-enjoy-all-the-fun-of-making-playoffs/"
   },
   {
     " game": 157,
+    "won": "W",
     "date": "9/25/2018",
-    "opponent": "vs Athletics"
+    "opponent": "vs Athletics",
+    "score": "10-8",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-gamer-9-25/"
   },
   {
     " game": 158,
+    "won": "L",
     "date": "9/26/2018",
-    "opponent": "vs Athletics"
+    "opponent": "vs Athletics",
+    "score": "9-7",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-fall-to-as-in-felixs-final-start-of-season/"
   },
   {
     " game": 159,
+    "won": "L",
     "date": "9/27/2018",
-    "opponent": "vs Rangers"
+    "opponent": "vs Rangers",
+    "score": "                    2-0 ",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-lose-despite-another-solid-game-from-starter-marco-gonzales/"
   },
   {
     " game": 160,
+    "won": "W",
     "date": "9/28/2018",
-    "opponent": "vs Rangers"
+    "opponent": "vs Rangers",
+    "score": "12-6",
+    "link": "https://www.seattletimes.com/sports/mariners/mariners-finish-off-12-6-romp-over-rangers/"
   },
   {
     " game": 161,
